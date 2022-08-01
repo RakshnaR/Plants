@@ -1,0 +1,9 @@
+.container {
+	width: 700px;
+	margin: 0 auto;
+	padding: 30px; 
+}
+
+.container h2 {
+	padding-top: 20px;
+}
